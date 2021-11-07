@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @JEMA99 
 🐧🎻MXN/ENG🎧 developer, project manager, leader, software enginner
 `<computer systems engineering student>`
-- *Founder Leader CEO - GOLDEN BEAN STUDIOS ✨ *
+-_Founder Leader CEO - GOLDEN BEAN STUDIOS ✨_ 
 
 - 👀 I’m interested in ... videogames, mobile apps, VR and AR 🥽
 - 🌱 I’m currently learning ... desing, Swift, Kotlin, Flutter, React native and Unity3D
