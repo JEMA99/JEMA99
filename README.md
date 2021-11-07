@@ -16,7 +16,7 @@ Founder Leader CEO - GOLDEN BEAN STUDIOS ✨
               in order to create applications that help everyone, 
               whether they are students, doctors, teachers, 
               people with disabilities and even the environment.
-              
+--              
               
 <!---
 JEMA99/JEMA99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
