@@ -1,9 +1,7 @@
-# 👋 Hi, I’m @JEMA99 
+# 👋 Hi, I’m JESUS EMMANUEL MORALES AVILA - @JEMA99 
 🐧🎻MXN/ENG🎧 developer, project manager, leader, software enginner
 - 💻 `computer systems engineering student`
-
 - ✨ Founder Leader CEO - GOLDEN BEAN STUDIOS 
-
 - 👀 I’m interested in ... videogames, mobile apps, VR and AR 🥽
 - 🌱 I’m currently learning ... desing, Swift, Kotlin, Flutter, React native and Unity3D
 - 💞️ I’m looking to collaborate on ... https://github.com/OrlandoDuranPY/OrlandoDuranPY/blob/main/README.md
