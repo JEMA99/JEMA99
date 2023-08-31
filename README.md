@@ -1,22 +1,32 @@
 # 👋 Hi, I’m JESUS EMMANUEL MORALES AVILA - @JEMA99 
 🐧🎻MXN/ENG🎧 developer, project manager, leader, software enginner
-- 💻 `computer systems engineering student`
-- ✨ Founder Leader CEO - GOLDEN BEAN STUDIOS 
-- 👀 I’m interested in ... videogames, mobile apps, VR and AR 🥽
-- 🌱 I’m currently learning ... desing, Swift, Kotlin, Flutter, React native and Unity3D
-- 💞️ I’m looking to collaborate on ... @OrlandoDuranPY
+- 💻 `Computer Systems Engineering`
+- ✨ Founder - GOLDEN BEAN STUDIOS 
+- 👀 I’m interested in ... PWA, Data Cience and VR/AR 🥽
+- 🌱 I’m currently learning ... Desing, React native and Project Management
+- 👥 I’m looking to collaborate on ... @OrlandoDuranPY @Juliobs22
 
 ---                    
-#                       ⚡GOLDEN BEAN STUDIOS🦢🌹🌺🌸
-              We are various studios for the development and publication 
-              of mobile applications, video games, web applications 
-              and Design (2D, 3D, audio visual and animation).
+#                       ⚡GOLDEN BEAN STUDIOS 🌸
+              Golden Beans Studios is a collection of studios dedicated 
+              to the development and publication of mobile applications.
 
-              Here we are a team, and the studies contribute a large 
-              part to complement the developments in the other projects, 
-              in order to create applications that help everyone, 
-              whether they are students, doctors, teachers, 
-              people with disabilities and even the environment.
+              We collaborate as a team, and the studios play a key role 
+              to complement the developments in the other projects, 
+              with the purpose of creating applications that help everyone.
+              
+##            🏆 Goal. 
+              The goal at Golden Bean Studios is to create applications that benefit everyone, 
+              including students, doctors, teachers, people with disabilities, 
+              and even the environment.
+
+##            🎯 Mission.  
+              The mission at Golden Bean Studios is to use technology 
+              to improve the lives of our users.
+
+##            🔭 Vission.   
+              The vission at Golden Bean Studios is to become a leading provider 
+              of innovative and helpful mobile applications.
 ---              
               
 <!---
