@@ -1,5 +1,5 @@
 # 👋 Hi, I’m JESUS EMMANUEL MORALES AVILA - @JEMA99 
-🐧🎻MXN/ENG🎧 developer, project manager, leader, software enginner
+🐧🎻MXN/ENG🎧 leader, project manager, developer, software enginner
 - 💻 `Computer Systems Engineering`
 - ✨ Founder - GOLDEN BEAN STUDIOS 
 - 👀 I’m interested in ... PWA, Data Cience and VR/AR 🥽
